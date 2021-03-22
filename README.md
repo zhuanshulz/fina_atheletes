@@ -6,5 +6,7 @@ the second file of "swim_data.py" can get the detail previous results of the ath
 
 the thrid file of "swim_data_multithreads.py" used multithreading to speedup this process.  
 
+the final file of "combine_multithread_swim_data.py" combined all the json files to one json file.  
+
 all data will be saved as json format.  
 
